@@ -1,4 +1,4 @@
-# FIS-assignment-3
+# Factory-Information-Systems-assignment-3
 During assignment 3 you have to illustrate use of selected messages from IPC-2501 and IPC-2541 standards. You have got a contract from a factory, who wants to monitor the status of their machines. The states of the machines have to be saved to the database in order to create later the trends for production system and its machines. This will allow factory to see the operations of their line in a longer term and search for optimisation options.
 
 Each machine should implement CAMX communication approach. Therefore, you have to built a Message Broker (MSB). In order to test your MSB before deploying it for the actual line, you have to implement two clients - Machine Application (MA) (representing actual equipment) and Archiver Application (AA) (saves data to the database).
